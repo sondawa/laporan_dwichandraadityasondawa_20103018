@@ -1,0 +1,25 @@
+
+.new1{
+    display: flex;
+    gap: 20px;
+    margin-bottom: 2rem;
+
+}
+.new2{
+    display: flex;
+    gap: 20px;
+    margin-top: 2rem;
+}
+.img1{
+    background-color: black;
+}
+.img1 img{
+    margin-top: 2rem;
+    margin-left: 25rem;
+}
+
+.adit{
+    background-image: url('../image/background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
